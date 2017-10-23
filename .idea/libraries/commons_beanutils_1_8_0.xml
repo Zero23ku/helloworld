@@ -1,0 +1,26 @@
+<component name="libraryTable">
+  <library name="commons-beanutils-1.8.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/commons-beanutils-1.8.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-codec-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-configuration-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-digester-1.8.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-email-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-io-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/hsqldb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-common-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-dao-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ibatis-sqlmap-2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.3-jdk13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jtds-1.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msbase.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mssqlserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/msutil.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
